@@ -5,7 +5,7 @@ public class main {
     public static void main(String[] args) {
         Barang barang1 = new Barang(
                 "BRG-001",
-                "Mouse USB",
+                "Keyboard",
                 10,
                 "Laboratorium Komputer");
 
